@@ -1,0 +1,3 @@
+[submodule "launcher/src/main/resources/net/legacylauncher/lang"]
+	path = launcher/src/main/resources/net/legacylauncher/lang
+	url = https://github.com/LegacyLauncher/translations.git
