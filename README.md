@@ -10,9 +10,7 @@ This build was created from the source archive in this directory.
 ## License
 
 See [LICENSE.txt](LICENSE.txt). The source archive's included notice describes
-the source as being for reference and says it is “All rights reserved.” No
-GPL-3.0 license grant is included in that archive, so this project does not
-claim that the upstream source is GPL-3.0 licensed.
+the source as being for reference and says it is “All rights reserved.” 
 
 ## Build
 
